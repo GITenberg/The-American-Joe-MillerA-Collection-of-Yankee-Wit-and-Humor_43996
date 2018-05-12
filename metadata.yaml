@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 43996-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43996#The-American-Joe-MillerA-Collection-of-Yankee-Wit-and-Humor
 gutenberg_issued: '2013-10-22'
 gutenberg_type: Text
 identifiers:
